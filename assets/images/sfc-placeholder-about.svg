@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Placeholder image, seeds and dark soil with a young sprout">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C2855B"/>
+      <stop offset="1" stop-color="#2F5D45"/>
+    </linearGradient>
+    <linearGradient id="leaf2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E4D5C3" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#E4D5C3" stop-opacity="0.65"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g2)"/>
+  <circle cx="650" cy="120" r="200" fill="#ffffff" opacity="0.07"/>
+  <circle cx="150" cy="500" r="200" fill="#1B1B1B" opacity="0.06"/>
+  <!-- scattered seeds, centred around a small sprout -->
+  <g fill="#E4D5C3" opacity="0.85">
+    <ellipse cx="300" cy="380" rx="13" ry="8" transform="rotate(20 300 380)"/>
+    <ellipse cx="360" cy="410" rx="13" ry="8" transform="rotate(-15 360 410)"/>
+    <ellipse cx="440" cy="395" rx="13" ry="8" transform="rotate(35 440 395)"/>
+    <ellipse cx="500" cy="415" rx="13" ry="8" transform="rotate(-25 500 415)"/>
+    <ellipse cx="250" cy="410" rx="13" ry="8" transform="rotate(10 250 410)"/>
+    <ellipse cx="550" cy="385" rx="13" ry="8" transform="rotate(-40 550 385)"/>
+  </g>
+  <g transform="translate(400 320)" stroke="url(#leaf2)" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.92">
+    <path d="M0 70 C 0 20 0 -20 0 -70"/>
+    <path d="M0 30 C 54 10 86 -34 90 -84 C 38 -74 6 -38 0 14 Z" fill="url(#leaf2)" stroke="none"/>
+    <path d="M0 56 C -54 36 -86 -8 -90 -58 C -38 -48 -6 -12 0 40 Z" fill="url(#leaf2)" stroke="none"/>
+  </g>
+</svg>

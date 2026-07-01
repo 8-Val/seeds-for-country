@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pack details, Seeds for Country</title>
+  <meta name="description" content="Pack details for Seeds for Country. A demonstration product page, not a real shop." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 28C16 18 8 14 5 6c9-1 11 6 11 12' fill='none' stroke='%232F5D45' stroke-width='2.4' stroke-linecap='round'/%3E%3Cpath d='M16 22c0-7 3-12 11-13-1 8-5 11-11 13Z' fill='%232F5D45'/%3E%3C/svg%3E" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- Always-clear demo note -->
+  <div class="demo-banner">
+    <strong>Demonstration only.</strong> This is a university project. You cannot actually buy anything, no payment is taken, and prices are indicative.
+  </div>
+
+  <!-- ============================ HEADER / NAV ============================ -->
+  <header class="site-header" id="top">
+    <div class="container nav">
+      <a class="brand" href="index.html" aria-label="Seeds for Country, home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+          <path d="M16 29C16 18 8 14 5 5c10-1 12 7 12 13" fill="none" stroke="#2F5D45" stroke-width="2.4" stroke-linecap="round"/>
+          <path d="M16 23c0-8 3-13 12-14-1 9-5 12-12 14Z" fill="#2F5D45"/>
+        </svg>
+        Seeds for Country
+      </a>
+
+      <nav class="nav-links" aria-label="Primary">
+        <a href="index.html#home">Home</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#why">Why us</a>
+        <a href="index.html#finder">Packs</a>
+        <a href="index.html#giveback">Give-back</a>
+        <a href="index.html#partners">Partners</a>
+        <a href="index.html#get-involved">Get involved</a>
+      </nav>
+
+      <button class="cart-btn nav-cta" type="button" id="cart-btn" aria-label="Your cart">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/><path d="M2 3h2.2l2.1 12.2a1.6 1.6 0 0 0 1.6 1.3h8.7a1.6 1.6 0 0 0 1.6-1.2L21 7H6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Cart <span class="cart-count" id="cart-count">0</span>
+      </button>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+
+    <div class="mobile-nav" id="mobile-nav">
+      <a href="index.html#home">Home</a>
+      <a href="index.html#about">About</a>
+      <a href="index.html#why">Why buy from us</a>
+      <a href="index.html#finder">The packs and finder</a>
+      <a href="index.html#giveback">Our give-back</a>
+      <a href="index.html#partners">Who we work with</a>
+      <a href="index.html#get-involved">Get involved</a>
+      <a class="btn btn--outline" href="index.html">Back to home</a>
+    </div>
+  </header>
+
+  <main id="main" class="section">
+    <div class="container">
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span class="sep" aria-hidden="true">/</span>
+        <a href="index.html#finder">Packs</a>
+        <span class="sep" aria-hidden="true">/</span>
+        <span aria-current="page" id="bc-name">Pack</span>
+      </nav>
+
+      <!-- Product -->
+      <div class="product-grid">
+        <!-- Media -->
+        <div class="product-media">
+          <!-- TEAM: drop a real photo named sfc-product-pack.jpg in assets/images/ (e.g. from Pexels or Pixabay), suggested subject = a styled flat-lay of the seed pack, native seed and a growing guide. Until it exists, the placeholder shows automatically. -->
+          <span class="img-wrap">
+            <img id="product-img" loading="eager" fetchpriority="high" decoding="async" src="assets/images/sfc-product-pack.jpg" onerror="this.onerror=null;this.src='assets/images/sfc-placeholder-about.svg'" alt="A Seeds for Country seed pack with native seeds, gum nuts, wattle and growing guide cards" width="800" height="600" />
+            <span class="img-tag">Placeholder image</span>
+          </span>
+          <div class="thumbs" id="thumbs" role="group" aria-label="More views"></div>
+        </div>
+
+        <!-- Info -->
+        <div class="product-info">
+          <span class="eyebrow" id="product-tagline">Seeds for Country</span>
+          <h1 id="product-name">Pack</h1>
+
+          <div class="stars" aria-label="Not yet rated, no reviews">
+            <span aria-hidden="true">&#9734;&#9734;&#9734;&#9734;&#9734;</span>
+            <span>No reviews yet</span>
+          </div>
+
+          <div class="product-price">
+            <span class="from" id="price-from">From</span>
+            <span class="amt" id="product-price">$0</span>
+            <span class="indic" id="price-indic">indicative only</span>
+          </div>
+
+          <p class="product-contents" id="product-contents"></p>
+
+          <p class="product-blurb" id="product-blurb"></p>
+
+          <div class="buy-row">
+            <div class="buy-area">
+              <div class="field">
+                <label for="area-select">Your area</label>
+                <select id="area-select"></select>
+              </div>
+            </div>
+            <div class="buy-area" id="single-choose" hidden>
+              <div class="field">
+                <label for="seed-select">Choose your seed</label>
+                <select id="seed-select"></select>
+              </div>
+            </div>
+            <div class="qty">
+              <span id="qty-label">Quantity</span>
+              <div class="qty-control" role="group" aria-labelledby="qty-label">
+                <button type="button" id="qty-minus" aria-label="Decrease quantity">&minus;</button>
+                <input type="number" id="qty-input" value="1" min="1" max="99" inputmode="numeric" aria-label="Quantity" />
+                <button type="button" id="qty-plus" aria-label="Increase quantity">+</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="product-actions">
+            <button class="btn btn--primary" type="button" id="add-cart">Add to cart</button>
+            <button class="btn btn--outline" type="button" id="buy-now">Buy now</button>
+          </div>
+
+          <ul class="product-trust">
+            <li><svg class="tick" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M20 6L9 17l-5-5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Pre-treated seed, ready to sow, with a plain-language growing guide</span></li>
+            <li><svg class="tick" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M20 6L9 17l-5-5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>About half of every pack flows back to Aboriginal people and Country</span></li>
+            <li><svg class="tick" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M20 6L9 17l-5-5" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Species matched to your area, from a working draft list we are checking</span></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Detail + give-back -->
+      <div class="product-detail-grid">
+        <div class="detail-card">
+          <h2>What is inside</h2>
+          <ul class="pack-includes" id="product-includes"></ul>
+          <p class="picks" id="product-picks"></p>
+        </div>
+        <div class="giveback-mini">
+          <div class="pct">~50%</div>
+          <p>About half of what you pay flows back, as a fair payment to the Aboriginal-owned nursery and a donation to Aboriginal-led restoration. The exact split is a target while partnerships are confirmed.</p>
+        </div>
+      </div>
+
+      <!-- Related packs -->
+      <section class="related" aria-labelledby="related-head">
+        <h2 id="related-head">Other packs you might like</h2>
+        <div class="related-grid" id="related"></div>
+      </section>
+    </div>
+  </main>
+
+  <!-- ============================== FOOTER ============================== -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-top">
+        <div>
+          <span class="footer-brand">
+            <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+              <path d="M16 29C16 18 8 14 5 5c10-1 12 7 12 13" fill="none" stroke="#E4D5C3" stroke-width="2.4" stroke-linecap="round"/>
+              <path d="M16 23c0-8 3-13 12-14-1 9-5 12-12 14Z" fill="#E4D5C3"/>
+            </svg>
+            Seeds for Country
+          </span>
+          <p class="footer-tagline">Native plant seeds that give back to Aboriginal people and Country.</p>
+        </div>
+        <nav class="footer-col" aria-label="Explore">
+          <h3>Explore</h3>
+          <a href="index.html#about">About</a>
+          <a href="index.html#why">Why buy from us</a>
+          <a href="index.html#finder">The packs and finder</a>
+          <a href="index.html#giveback">Our give-back</a>
+        </nav>
+        <nav class="footer-col" aria-label="Get involved">
+          <h3>Get involved</h3>
+          <a href="index.html#partners">Who we work with</a>
+          <a href="index.html#get-involved">Contact us</a>
+          <a href="index.html#get-involved">Impact updates</a>
+          <a href="index.html#finder">Find your seeds</a>
+        </nav>
+      </div>
+
+      <p class="footer-disclaimer">
+        <strong>An honest note.</strong> This is a not-for-profit university project demonstration. Nothing on this page is a real product or a real price, and there is no working checkout. Partnerships, figures and the species list are indicative and not yet verified.
+      </p>
+
+      <div class="footer-base">
+        <span>&copy; 2026 Seeds for Country, a not-for-profit social enterprise concept.</span>
+        <span>Made for a university showcase. Figures and partners indicative only.</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Toast -->
+  <div class="toast" id="toast" role="status" aria-live="polite">
+    <svg class="tick" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M20 6L9 17l-5-5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <span id="toast-text">Added to your cart</span>
+  </div>
+
+  <script src="data/regions.js"></script>
+  <script src="js/product.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

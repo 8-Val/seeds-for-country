@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Placeholder image, restored bushland with new native plantings">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C2855B"/>
+      <stop offset="1" stop-color="#2F5D45"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g4)"/>
+  <circle cx="660" cy="130" r="190" fill="#ffffff" opacity="0.06"/>
+  <!-- rolling restored ground line with centred plantings -->
+  <path d="M0 430 C 180 380 320 460 480 410 C 620 370 720 430 800 400 L800 600 L0 600 Z" fill="#244736" opacity="0.55"/>
+  <g stroke="#E4D5C3" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.92">
+    <path d="M280 430 v-66 M280 398 q-24 -16 -36 -38 M280 390 q24 -14 36 -36"/>
+    <path d="M400 440 v-74 M400 406 q-26 -16 -38 -40 M400 398 q26 -14 38 -38"/>
+    <path d="M520 430 v-66 M520 398 q-24 -16 -36 -38 M520 390 q24 -14 36 -36"/>
+  </g>
+</svg>

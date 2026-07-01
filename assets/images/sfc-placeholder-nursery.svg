@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Placeholder image, rows of potted native seedlings at a nursery">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F5D45"/>
+      <stop offset="1" stop-color="#3c7257"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g3)"/>
+  <circle cx="140" cy="120" r="170" fill="#ffffff" opacity="0.06"/>
+  <circle cx="680" cy="520" r="180" fill="#1B1B1B" opacity="0.06"/>
+  <!-- centred row of little pots with sprouts -->
+  <g transform="translate(0 40)">
+    <g fill="#E4D5C3" opacity="0.9">
+      <path d="M250 330 h60 l-8 60 h-44 z"/>
+      <path d="M340 330 h60 l-8 60 h-44 z"/>
+      <path d="M430 330 h60 l-8 60 h-44 z"/>
+      <path d="M520 330 h60 l-8 60 h-44 z"/>
+    </g>
+    <g stroke="#C2855B" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.95">
+      <path d="M280 330 q-18 -40 0 -70 M280 330 q18 -36 0 -64"/>
+      <path d="M370 330 q-18 -40 0 -70 M370 330 q18 -36 0 -64"/>
+      <path d="M460 330 q-18 -40 0 -70 M460 330 q18 -36 0 -64"/>
+      <path d="M550 330 q-18 -40 0 -70 M550 330 q18 -36 0 -64"/>
+    </g>
+  </g>
+</svg>

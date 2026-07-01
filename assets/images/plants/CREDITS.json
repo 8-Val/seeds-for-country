@@ -1,0 +1,497 @@
+{
+  "angophora-costata": {
+    "taxon_id": 83379,
+    "matched_name": "Angophora costata",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344592307/large.jpeg",
+    "license": "cc-by-nc-sa",
+    "attribution": "(c) Michael Keogh, some rights reserved (CC BY-NC-SA), uploaded by Michael Keogh",
+    "page": "https://www.inaturalist.org/taxa/83379",
+    "opaque_pct": 75.7,
+    "size": [
+      560,
+      320
+    ],
+    "common": "Sydney Red Gum",
+    "botanical": "Angophora costata"
+  },
+  "eucalyptus-haemastoma": {
+    "taxon_id": 197038,
+    "matched_name": "Eucalyptus haemastoma",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309176558/large.jpeg",
+    "license": "cc-by-nc",
+    "attribution": "(c) Dean Nicolle, some rights reserved (CC BY-NC), uploaded by Dean Nicolle",
+    "page": "https://www.inaturalist.org/taxa/197038",
+    "opaque_pct": 22.0,
+    "size": [
+      362,
+      560
+    ],
+    "common": "Scribbly Gum",
+    "botanical": "Eucalyptus haemastoma"
+  },
+  "eucalyptus-saligna": {
+    "taxon_id": 162763,
+    "matched_name": "Eucalyptus saligna",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70314522/large.jpg",
+    "license": "cc-by-nc",
+    "attribution": "(c) Dean Nicolle, some rights reserved (CC BY-NC), uploaded by Dean Nicolle",
+    "page": "https://www.inaturalist.org/taxa/162763",
+    "opaque_pct": 21.7,
+    "size": [
+      425,
+      489
+    ],
+    "common": "Sydney Blue Gum",
+    "botanical": "Eucalyptus saligna"
+  },
+  "banksia-integrifolia": {
+    "taxon_id": 244884,
+    "matched_name": "Banksia integrifolia",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74929050/large.jpeg",
+    "license": "cc-by-nc-sa",
+    "attribution": "(c) Nick Lambert, some rights reserved (CC BY-NC-SA), uploaded by Nick Lambert",
+    "page": "https://www.inaturalist.org/taxa/244884",
+    "opaque_pct": 39.8,
+    "size": [
+      392,
+      560
+    ],
+    "common": "Coast Banksia",
+    "botanical": "Banksia integrifolia"
+  },
+  "banksia-serrata": {
+    "taxon_id": 64519,
+    "matched_name": "Banksia serrata",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348374180/large.jpeg",
+    "license": "cc-by-nc",
+    "attribution": "(c) Taylor, some rights reserved (CC BY-NC), uploaded by Taylor",
+    "page": "https://www.inaturalist.org/taxa/64519",
+    "opaque_pct": 54.5,
+    "size": [
+      177,
+      364
+    ],
+    "common": "Old Man Banksia",
+    "botanical": "Banksia serrata"
+  },
+  "tristaniopsis-laurina": {
+    "taxon_id": 135366,
+    "matched_name": "Tristaniopsis laurina",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57995718/large.jpg",
+    "license": "cc-by-nc",
+    "attribution": "(c) kristiek, some rights reserved (CC BY-NC), uploaded by kristiek",
+    "page": "https://www.inaturalist.org/taxa/135366",
+    "opaque_pct": 34.7,
+    "size": [
+      560,
+      392
+    ],
+    "common": "Water Gum",
+    "botanical": "Tristaniopsis laurina"
+  },
+  "syzygium-smithii": {
+    "taxon_id": 338330,
+    "matched_name": "Syzygium smithii",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341718584/large.jpeg",
+    "license": "cc-by-nc",
+    "attribution": "(c) truffletheguineapig, some rights reserved (CC BY-NC), uploaded by truffletheguineapig",
+    "page": "https://www.inaturalist.org/taxa/338330",
+    "opaque_pct": 28.9,
+    "size": [
+      534,
+      560
+    ],
+    "common": "Lilly Pilly",
+    "botanical": "Syzygium smithii"
+  },
+  "glochidion-ferdinandi": {
+    "taxon_id": 370557,
+    "matched_name": "Glochidion ferdinandi",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102364568/large.jpg",
+    "license": "cc-by-nc",
+    "attribution": "(c) Craig Robbins, some rights reserved (CC BY-NC), uploaded by Craig Robbins",
+    "page": "https://www.inaturalist.org/taxa/370557",
+    "opaque_pct": 36.2,
+    "size": [
+      280,
+      285
+    ],
+    "common": "Cheese Tree",
+    "botanical": "Glochidion ferdinandi"
+  },
+  "leptospermum-laevigatum": {
+    "taxon_id": 1546134,
+    "matched_name": "Gaudium laevigatum",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86160292/large.jpg",
+    "license": "cc-by",
+    "attribution": "(c) Kevin Thiele, some rights reserved (CC BY)",
+    "page": "https://www.inaturalist.org/taxa/1546134",
+    "opaque_pct": 39.9,
+    "size": [
+      560,
+      554
+    ],
+    "common": "Coastal Tea Tree",
+    "botanical": "Leptospermum laevigatum"
+  },
+  "banksia-ericifolia": {
+    "taxon_id": 131642,
+    "matched_name": "Banksia ericifolia",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137708/large.jpg",
+    "license": "cc-by-nc-nd",
+    "attribution": "(c) Nicholas Turland, some rights reserved (CC BY-NC-ND)",
+    "page": "https://www.inaturalist.org/taxa/131642",
+    "opaque_pct": 57.7,
+    "size": [
+      230,
+      560
+    ],
+    "common": "Heath-leaved Banksia",
+    "botanical": "Banksia ericifolia"
+  },
+  "banksia-spinulosa": {
+    "taxon_id": 208902,
+    "matched_name": "Banksia spinulosa",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52199390/large.jpeg",
+    "license": "cc-by-nc-sa",
+    "attribution": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+    "page": "https://www.inaturalist.org/taxa/208902",
+    "opaque_pct": 59.4,
+    "size": [
+      255,
+      410
+    ],
+    "common": "Hairpin Banksia",
+    "botanical": "Banksia spinulosa"
+  },
+  "westringia-fruticosa": {
+    "taxon_id": 353888,
+    "matched_name": "Westringia fruticosa",
+    "img_url": "https://static.inaturalist.org/photos/104180166/large.jpeg",
+    "license": null,
+    "attribution": "(c) Charles Dove, all rights reserved, uploaded by Charles Dove",
+    "page": "https://www.inaturalist.org/taxa/353888",
+    "opaque_pct": 52.1,
+    "size": [
+      351,
+      543
+    ],
+    "common": "Coast Rosemary",
+    "botanical": "Westringia fruticosa"
+  },
+  "melaleuca-citrina": {
+    "taxon_id": 77976,
+    "matched_name": "Melaleuca citrina",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437443201/large.jpeg",
+    "license": "cc-by-nc",
+    "attribution": "(c) Lachlan Penninkilampi, some rights reserved (CC BY-NC), uploaded by Lachlan Penninkilampi",
+    "page": "https://www.inaturalist.org/taxa/77976",
+    "opaque_pct": 32.5,
+    "size": [
+      527,
+      560
+    ],
+    "common": "Crimson Bottlebrush",
+    "botanical": "Melaleuca citrina"
+  },
+  "acacia-longifolia": {
+    "taxon_id": 63379,
+    "matched_name": "Acacia longifolia",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21573216/large.jpg",
+    "license": "cc-by-nc",
+    "attribution": "(c) samfisch, some rights reserved (CC BY-NC), uploaded by samfisch",
+    "page": "https://www.inaturalist.org/taxa/63379",
+    "opaque_pct": 31.6,
+    "size": [
+      536,
+      560
+    ],
+    "common": "Sydney Golden Wattle",
+    "botanical": "Acacia longifolia"
+  },
+  "acacia-suaveolens": {
+    "taxon_id": 321062,
+    "matched_name": "Acacia suaveolens",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66328425/large.jpeg",
+    "license": "cc-by-nc-sa",
+    "attribution": "(c) Michael Keogh, some rights reserved (CC BY-NC-SA), uploaded by Michael Keogh",
+    "page": "https://www.inaturalist.org/taxa/321062",
+    "opaque_pct": 25.1,
+    "size": [
+      560,
+      538
+    ],
+    "common": "Sweet Wattle",
+    "botanical": "Acacia suaveolens"
+  },
+  "lambertia-formosa": {
+    "taxon_id": 83616,
+    "matched_name": "Lambertia formosa",
+    "img_url": "https://static.inaturalist.org/photos/33465851/large.jpg",
+    "license": null,
+    "attribution": "(c) kristieking14, all rights reserved",
+    "page": "https://www.inaturalist.org/taxa/83616",
+    "opaque_pct": 31.2,
+    "size": [
+      560,
+      440
+    ],
+    "common": "Mountain Devil",
+    "botanical": "Lambertia formosa"
+  },
+  "correa-reflexa": {
+    "taxon_id": 321098,
+    "matched_name": "Correa reflexa",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370329/large.jpg",
+    "license": "cc-by-nc-nd",
+    "attribution": "(c) David Midgley, some rights reserved (CC BY-NC-ND)",
+    "page": "https://www.inaturalist.org/taxa/321098",
+    "opaque_pct": 36.2,
+    "size": [
+      546,
+      560
+    ],
+    "common": "Native Fuchsia",
+    "botanical": "Correa reflexa"
+  },
+  "kunzea-ambigua": {
+    "taxon_id": 321043,
+    "matched_name": "Kunzea ambigua",
+    "img_url": "https://static.inaturalist.org/photos/56502004/large.jpg",
+    "license": null,
+    "attribution": "(c) Patrick  Campbell, all rights reserved, uploaded by Patrick  Campbell",
+    "page": "https://www.inaturalist.org/taxa/321043",
+    "opaque_pct": 35.5,
+    "size": [
+      560,
+      390
+    ],
+    "common": "Tick Bush",
+    "botanical": "Kunzea ambigua"
+  },
+  "grevillea-sericea": {
+    "taxon_id": 321123,
+    "matched_name": "Grevillea sericea",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370371/large.jpg",
+    "license": "cc-by-nc-nd",
+    "attribution": "(c) David Midgley, some rights reserved (CC BY-NC-ND)",
+    "page": "https://www.inaturalist.org/taxa/321123",
+    "opaque_pct": 36.2,
+    "size": [
+      558,
+      560
+    ],
+    "common": "Pink Spider Flower",
+    "botanical": "Grevillea sericea"
+  },
+  "ceratopetalum-gummiferum": {
+    "taxon_id": 184260,
+    "matched_name": "Ceratopetalum gummiferum",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91358223/large.jpeg",
+    "license": "cc-by-nc-sa",
+    "attribution": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+    "page": "https://www.inaturalist.org/taxa/184260",
+    "opaque_pct": 36.8,
+    "size": [
+      373,
+      306
+    ],
+    "common": "NSW Christmas Bush",
+    "botanical": "Ceratopetalum gummiferum"
+  },
+  "themeda-triandra": {
+    "taxon_id": 208571,
+    "matched_name": "Themeda triandra",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171287912/large.jpg",
+    "license": "cc-by-nc",
+    "attribution": "(c) Richard Gill, some rights reserved (CC BY-NC), uploaded by Richard Gill",
+    "page": "https://www.inaturalist.org/taxa/208571",
+    "opaque_pct": 28.4,
+    "size": [
+      420,
+      560
+    ],
+    "common": "Kangaroo Grass",
+    "botanical": "Themeda triandra"
+  },
+  "lomandra-longifolia": {
+    "taxon_id": 83375,
+    "matched_name": "Lomandra longifolia",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28106130/large.jpeg",
+    "license": "cc-by-nc-nd",
+    "attribution": "(c) QuestaGame, some rights reserved (CC BY-NC-ND), uploaded by QuestaGame",
+    "page": "https://www.inaturalist.org/taxa/83375",
+    "opaque_pct": 21.4,
+    "size": [
+      331,
+      560
+    ],
+    "common": "Spiny-head Mat-rush",
+    "botanical": "Lomandra longifolia"
+  },
+  "poa-labillardierei": {
+    "taxon_id": 323470,
+    "matched_name": "Poa labillardierei",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150208775/large.jpg",
+    "license": "cc-by-nc",
+    "attribution": "(c) jenaoides, some rights reserved (CC BY-NC), uploaded by jenaoides",
+    "page": "https://www.inaturalist.org/taxa/323470",
+    "opaque_pct": 41.1,
+    "size": [
+      297,
+      560
+    ],
+    "common": "Tussock Grass",
+    "botanical": "Poa labillardierei"
+  },
+  "microlaena-stipoides": {
+    "taxon_id": 559367,
+    "matched_name": "Microlaena stipoides",
+    "img_url": "https://static.inaturalist.org/photos/1567640/large.JPG",
+    "license": null,
+    "attribution": "(c) Melissa Hutchison, all rights reserved, uploaded by Melissa Hutchison",
+    "page": "https://www.inaturalist.org/taxa/559367",
+    "opaque_pct": 33.6,
+    "size": [
+      560,
+      462
+    ],
+    "common": "Weeping Grass",
+    "botanical": "Microlaena stipoides"
+  },
+  "viola-hederacea": {
+    "taxon_id": 321186,
+    "matched_name": "Viola hederacea",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56314759/large.jpeg",
+    "license": "cc-by-nc-sa",
+    "attribution": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+    "page": "https://www.inaturalist.org/taxa/321186",
+    "opaque_pct": 58.2,
+    "size": [
+      312,
+      328
+    ],
+    "common": "Native Violet",
+    "botanical": "Viola hederacea"
+  },
+  "dichondra-repens": {
+    "taxon_id": 161824,
+    "matched_name": "Dichondra repens",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334398175/large.jpeg",
+    "license": "cc-by-nc-sa",
+    "attribution": "(c) Marley Ford, some rights reserved (CC BY-NC-SA), uploaded by Marley Ford",
+    "page": "https://www.inaturalist.org/taxa/161824",
+    "opaque_pct": 18.9,
+    "size": [
+      560,
+      502
+    ],
+    "common": "Kidney Weed",
+    "botanical": "Dichondra repens"
+  },
+  "carpobrotus-glaucescens": {
+    "taxon_id": 60109,
+    "matched_name": "Carpobrotus glaucescens",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73873226/large.jpeg",
+    "license": "cc-by-nc",
+    "attribution": "(c) Mike Letnic, some rights reserved (CC BY-NC), uploaded by Mike Letnic",
+    "page": "https://www.inaturalist.org/taxa/60109",
+    "opaque_pct": 58.7,
+    "size": [
+      465,
+      400
+    ],
+    "common": "Pigface",
+    "botanical": "Carpobrotus glaucescens"
+  },
+  "dianella-caerulea": {
+    "taxon_id": 53680,
+    "matched_name": "Dianella caerulea",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99761189/large.jpeg",
+    "license": "cc0",
+    "attribution": "no rights reserved, uploaded by Vale Jenny Conolly",
+    "page": "https://www.inaturalist.org/taxa/53680",
+    "opaque_pct": 26.5,
+    "size": [
+      439,
+      527
+    ],
+    "common": "Blue Flax-lily",
+    "botanical": "Dianella caerulea"
+  },
+  "actinotus-helianthi": {
+    "taxon_id": 83622,
+    "matched_name": "Actinotus helianthi",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342474424/large.jpeg",
+    "license": "cc-by",
+    "attribution": "(c) Shelomi Doyle, some rights reserved (CC BY), uploaded by Shelomi Doyle",
+    "page": "https://www.inaturalist.org/taxa/83622",
+    "opaque_pct": 32.7,
+    "size": [
+      484,
+      560
+    ],
+    "common": "Flannel Flower",
+    "botanical": "Actinotus helianthi"
+  },
+  "telopea-speciosissima": {
+    "taxon_id": 122358,
+    "matched_name": "Telopea speciosissima",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66076603/large.jpeg",
+    "license": "cc-by-nc",
+    "attribution": "(c) kalimata, some rights reserved (CC BY-NC), uploaded by kalimata",
+    "page": "https://www.inaturalist.org/taxa/122358",
+    "opaque_pct": 35.9,
+    "size": [
+      560,
+      445
+    ],
+    "common": "Waratah",
+    "botanical": "Telopea speciosissima"
+  },
+  "xerochrysum-bracteatum": {
+    "taxon_id": 147467,
+    "matched_name": "Xerochrysum bracteatum",
+    "img_url": "https://static.inaturalist.org/photos/285156313/large.jpeg",
+    "license": null,
+    "attribution": "(c) Freja Bjornsson, all rights reserved, uploaded by Freja Bjornsson",
+    "page": "https://www.inaturalist.org/taxa/147467",
+    "opaque_pct": 45.9,
+    "size": [
+      560,
+      508
+    ],
+    "common": "Paper Daisy",
+    "botanical": "Xerochrysum bracteatum"
+  },
+  "wahlenbergia-stricta": {
+    "taxon_id": 131651,
+    "matched_name": "Wahlenbergia stricta",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137779/large.jpg",
+    "license": "cc-by-nc-nd",
+    "attribution": "(c) Philip Bouchard, some rights reserved (CC BY-NC-ND)",
+    "page": "https://www.inaturalist.org/taxa/131651",
+    "opaque_pct": 32.8,
+    "size": [
+      560,
+      499
+    ],
+    "common": "Native Bluebell",
+    "botanical": "Wahlenbergia stricta"
+  },
+  "philotheca-salsolifolia": {
+    "taxon_id": 321051,
+    "matched_name": "Philotheca salsolifolia",
+    "img_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98476708/large.jpg",
+    "license": "cc-by-nc",
+    "attribution": "(c) jackiemiles, some rights reserved (CC BY-NC), uploaded by jackiemiles",
+    "page": "https://www.inaturalist.org/taxa/321051",
+    "opaque_pct": 37.4,
+    "size": [
+      521,
+      506
+    ],
+    "common": "Pink Wax Flower",
+    "botanical": "Philotheca salsolifolia"
+  }
+}
